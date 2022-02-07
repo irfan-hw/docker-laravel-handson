@@ -1,0 +1,7 @@
+https://qiita.com/ucan-lab/items/56c9dc3cf2e6762672f4#%E4%BA%8B%E5%89%8D%E6%BA%96%E5%82%99
+
+docker-compose exec app bash
+docker compose down
+
+
+chown www-data storage/ -R
